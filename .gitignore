@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+DynamoDBLocal.jar
+DynamoDBLocal_lib
+shared-local-instance.db
+THIRD-PARTY-LICENSES.txt
+LICENSE.txt
