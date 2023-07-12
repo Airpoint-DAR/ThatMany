@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name ThatMany-VPC-Stack --profile personal --template-body file://./vpc.yaml
